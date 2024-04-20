@@ -1,0 +1,21 @@
+{
+  "name":"zu65-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with TypeScript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zulekha",
+  "license": " MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
